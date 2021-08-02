@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Cp1eSOa0Vn0fao5PN5gw/sl4LVVecODTwsbvn4wzarsmOsXN0sNqR6J+UYGEWjKR/L1QHvafXoPJ+2Ehx8z/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kerle\\Google Drive\\notebook kerley\\documentos\\CURSOS\\Curso C#\\jogo xadrez\\JogoDeXadrez\\JogoDeXadrez\\JogoDeXadrez.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kerle\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
