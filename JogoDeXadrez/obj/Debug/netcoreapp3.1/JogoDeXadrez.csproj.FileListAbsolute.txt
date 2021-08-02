@@ -1,0 +1,13 @@
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\netcoreapp3.1\JogoDeXadrez.csprojAssemblyReference.cache
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\netcoreapp3.1\JogoDeXadrez.AssemblyInfoInputs.cache
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\netcoreapp3.1\JogoDeXadrez.AssemblyInfo.cs
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\netcoreapp3.1\JogoDeXadrez.csproj.CoreCompileInputs.cache
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\netcoreapp3.1\JogoDeXadrez.exe
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\netcoreapp3.1\JogoDeXadrez.deps.json
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\netcoreapp3.1\JogoDeXadrez.runtimeconfig.json
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\netcoreapp3.1\JogoDeXadrez.runtimeconfig.dev.json
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\netcoreapp3.1\JogoDeXadrez.dll
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\bin\Debug\netcoreapp3.1\JogoDeXadrez.pdb
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\netcoreapp3.1\JogoDeXadrez.dll
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\netcoreapp3.1\JogoDeXadrez.pdb
+C:\Users\kerle\Google Drive\notebook kerley\documentos\CURSOS\Curso C#\jogo xadrez\JogoDeXadrez\JogoDeXadrez\obj\Debug\netcoreapp3.1\JogoDeXadrez.genruntimeconfig.cache
