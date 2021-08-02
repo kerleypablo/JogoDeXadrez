@@ -6,7 +6,7 @@ namespace JogoDeXadrez
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("teste");
+            Console.WriteLine("teste 2");
         }
     }
 }
